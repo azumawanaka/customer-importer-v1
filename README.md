@@ -63,7 +63,7 @@ php artisan import:customers 5
 
 ## 📸 Screenshots
 
-![1](https://raw.githubusercontent.com/azumawanaka/customer-importer-v1/main/screenshots/1.png)
+![Screenshot 1](https://raw.githubusercontent.com/azumawanaka/customer-importer-v1/main/screenshots/1.png)
 ![2](https://github.com/azumawanaka/customer-importer-v1/blob/main/screenshots/2.png)
 ![3](https://github.com/azumawanaka/customer-importer-v1/blob/main/screenshots/3.png)
 ![4](https://github.com/azumawanaka/customer-importer-v1/blob/main/screenshots/4.png)
