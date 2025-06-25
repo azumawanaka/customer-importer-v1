@@ -10,7 +10,7 @@
 
 # Laravel Customer Importer API
 
-This Laravel project provides a RESTful API that imports customer data from a third-party provider ([randomuser.me](https://randomuser.me)) and stores it in a local database using the Doctrine ORM. The API supports fetching a list of customers and viewing detailed information for a single customer.
+This Laravel project provides a RESTful API that imports customer data from a third-party provider ([randomuser.me](https://randomuser.me/api)) and stores it in a local database using the Doctrine ORM. The API supports fetching a list of customers and viewing detailed information for a single customer.
 
 ## Features
 
@@ -59,3 +59,13 @@ php artisan test tests/Unit/ tests/Unit/RandomUserImporterTest.php
 ## ⚙️ end-to-end Test
 ```bash
 php artisan import:customers 5
+
+
+## 📸 Screenshots
+
+![1](screenshots/1.png)
+![2](screenshots/2.png)
+![3](screenshots/3.png)
+![4](screenshots/4.png)
+![5](screenshots/5.png)
+![6](screenshots/6.png)
